@@ -1,7 +1,10 @@
 body {
-    margin: 25px;
+    padding: 25px;
 }
 
+h1 {
+    font-family: serif;
+}
 div {
     font-style: italic;
 }
